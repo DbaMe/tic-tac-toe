@@ -1,6 +1,6 @@
 {
 	"name": "spa-tic-tac-toe",
-	"homepage": "https://Hammed-Waheed.github.io/spa-tic-tac-toe",
+	"homepage": ".",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
